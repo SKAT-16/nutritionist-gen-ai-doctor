@@ -4,7 +4,7 @@ This application leverages Google's Gemini AI model to analyze food images and p
 
 ## Demo
 
-You can access the live demo of the app [here](http://example-link.com) (replace with actual link).
+You can access the live demo of the app [here](https://nutritionist-gen-ai-doctor.streamlit.app/)
 
 ## Features
 
